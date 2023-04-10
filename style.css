@@ -13,9 +13,23 @@ th {
     height: 50px;
     background-color: #333333;
     color: white;
+    font-size: 25px
 }
 
 td {
     border: 1px solid black;
     height: 50px;
+    font-size: 25px;
+    background-color: #eeeeee;
+    padding: 10px;
+}
+
+.summary {
+    font-family: sans-serif;
+    font-size: 16px;
+    background-color: white;
+}
+
+.first-colm {
+    font-size: 25;
 }
